@@ -2,7 +2,7 @@
 
 I own **some** of these, Not all of them are mine.
 
-Cool UI Lib V3RM Thread: 
+Cool UI Lib V3RM Thread: https://v3rmillion.net/showthread.php?tid=1151036
 Cool UI Lib: 
 ```
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DisguisedFox94/other-things/main/cool-uilib.lua'))()
