@@ -5,7 +5,7 @@ I own **some** of these, Not all of them are mine.
 Cool UI Lib V3RM Thread: 
 Cool UI Lib: 
 ```
-local UI = loadstring(game:HttpGet('https://raw.githubusercontent.com/DisguisedFox94/other-things/main/cool-uilib.lua'))()
+local Lib = loadstring(game:HttpGet('https://raw.githubusercontent.com/DisguisedFox94/other-things/main/cool-uilib.lua'))()
 ```
 Create a UI: Lib.UI(Name)
 Create a tab: UI:Tab(Name, Icon)
